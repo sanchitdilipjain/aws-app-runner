@@ -52,7 +52,7 @@
 
     3. Under Delpoyment Settings, we will select deployment trigger as Automatic. This means when App Runner detects any changes in the Github repo, it automatically kick-off the build and deployment process. Post Delpoyment Settings click Next
     
-        <img src="images/image8.png" class="inline"/>
+        <img src="images/image8.png" class="inline" width="800" height="250"/>
     
     4. Now we will configure the build. For Runtime, we will select Python 3, currently the service supports two languages: Python and Node.js for other environments we should opt for container registry workflow, along with selection of Runtime also provide details like Build command, Start command, and Port fields, as shown here
     
@@ -60,15 +60,15 @@
     
     5. Next, we will provide a name to the service, choose the CPU and memory size that we want to allocate to the container
     
-        <img src="images/image10.png" class="inline"/>
+        <img src="images/image10.png" class="inline" width="600" height="400"/>
     
     6. By default, we will have one instance of the container image, but we can looking for advance functionalities like autoscaling, health check, and security to ensure scalability and security for the application which are the core measures from production point
 
-        <img src="images/image11.png" class="inline"/>
+        <img src="images/image11.png" class="inline" width="700" height="600"/>
      
     7. Finally, we will review the configuration of the service and then select Create & deploy
     
-        <img src="images/image12.png" class="inline"/>
+        <img src="images/image12.png" class="inline" width="700" height="600"/>
     
     8. After a few minutes, the application will be available to access, by default App Runner secure the application by enforcing HTTPS secure traffic without explicitly handling in the container image
         
