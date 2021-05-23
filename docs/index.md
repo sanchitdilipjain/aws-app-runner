@@ -22,6 +22,10 @@
 
 - AWS App Runner makes it easier for you to deploy web apps and APIs to the cloud, regardless of the language they are written in, even for teams that lack prior experience deploying and managing containers or infrastructure 
 
+- How AWS App Runner Service Works? 
+
+    <img src="images/image2.png" class="inline"/> 
+
 - **Deploying from Source**
 
 
