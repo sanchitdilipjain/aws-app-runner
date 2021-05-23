@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## AWS App Runner
 
-You can use the [editor on GitHub](https://github.com/sanchitdilipjain/aws-app-runner/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+**Introduction**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- AWS App Runner is an AWS service thats offers a fast, simple, and cost-effective method to deploy from source code or a container image directly to a scalable and secure web application in the AWS Cloud.
 
-### Markdown
+- App Runner integrates directly to the code or image repository. It offers an out of the box integration and delivery pipeline with fully managed operations, high performance, scalability, and security.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-  Out of the box, App Runner is built for web scale, so there is no need to re-platform or re-architect as the business grows. It makes it simpler for customers to rapidly deliver innovative solutions and business value.
 
-```markdown
-Syntax highlighted code block
+      <img src="images/image1.png" class="inline" width="600" height="300"/>
 
-# Header 1
-## Header 2
-### Header 3
+- We can define and configure your App Runner service deployments using any one of the following interfaces:
 
-- Bulleted
-- List
+  - App Runner console 
 
-1. Numbered
-2. List
+  - App Runner API
 
-**Bold** and _Italic_ and `Code` text
+  - AWS Command Line Interface (AWS CLI)
 
-[Link](url) and ![Image](src)
-```
+  - AWS SDKs
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- AWS App Runner makes it easier for you to deploy web apps and APIs to the cloud, regardless of the language they are written in, even for teams that lack prior experience deploying and managing containers or infrastructure 
 
-### Jekyll Themes
+- **Deploying from Source**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanchitdilipjain/aws-app-runner/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Deploy from a Container Image**
