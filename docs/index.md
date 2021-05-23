@@ -52,11 +52,11 @@
     
     4. Now we will configure the build. For Runtime, we will select Python 3, currently, the service supports two languages: Python and Node.js for other environments we should opt for container registry workflow, along with a selection of Runtime also provide details like Build command, Start command, and Port fields, as shown here
     
-        <img src="images/image9.png" class="inline"/>
+        <img src="images/image9.png" class="inline" width="600" height="400"/>
     
     5. Next, we will provide a name to the service, choose the CPU and memory size that we want to allocate to the container
     
-        <img src="images/image10.png" class="inline" width="600" height="400"/>
+        <img src="images/image10.png" class="inline" width="500" height="300"/>
     
     6. By default, we will have one instance of the container image, but we can looking for advanced functionalities like autoscaling, health check, and security to ensure scalability and security for the application which are the core measures from a production point
 
