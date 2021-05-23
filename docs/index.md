@@ -64,7 +64,7 @@
     
     6. By default, we will have one instance of the container image, but we can looking for advance functionalities like autoscaling, health check, and security to ensure scalability and security for the application which are the core measures from production point
 
-        <img src="images/image11.png" class="inline" width="700" height="600"/>
+        <img src="images/image11.png" class="inline" width="600" height="400"/>
      
     7. Finally, we will review the configuration of the service and then select Create & deploy
     
