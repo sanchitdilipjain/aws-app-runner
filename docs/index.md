@@ -8,7 +8,11 @@
 
 -  Out of the box, App Runner is built for web scale, so there is no need to re-platform or re-architect as the business grows. It makes it simpler for customers to rapidly deliver innovative solutions and business value.
 
-      <img src="images/image1.png" class="inline" width="600" height="300"/>
+- AWS App Runner makes it easier for you to deploy web apps and APIs to the cloud, regardless of the language they are written in, even for teams that lack prior experience deploying and managing containers or infrastructure   
+
+- How AWS App Runner Service Works? 
+
+    <img src="images/image2.png" class="inline" width="700" height="300"/>   
 
 - We can define and configure your App Runner service deployments using any one of the following interfaces:
 
@@ -20,11 +24,7 @@
 
   - AWS SDKs
 
-- AWS App Runner makes it easier for you to deploy web apps and APIs to the cloud, regardless of the language they are written in, even for teams that lack prior experience deploying and managing containers or infrastructure 
-
-- How AWS App Runner Service Works? 
-
-    <img src="images/image2.png" class="inline"/> 
+    <img src="images/image1.png" class="inline" width="600" height="300"/>
 
 - **Deploying from Source**
 
